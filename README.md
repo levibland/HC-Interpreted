@@ -4,6 +4,9 @@ A scripting language named after HolyC, a language authored by Terrence RIP.
 ## What is HolyC Interpreted?
 It is a strongly and statically typed scripting language that closely resembles C, the language it is written in.
 
+## File extension
+The file extension for HolyC-I is .hc
+
 ## Notable features
 * Functions written in C can be used with HolyC-I
 * Many built-in types
