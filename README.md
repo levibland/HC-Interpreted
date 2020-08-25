@@ -1,6 +1,9 @@
 # HolyC Interpreted:
 A scripting language named after HolyC, a language authored by Terrence RIP.
 
+# Note:
+This language may no longer be developed as I have started work on a vm based language.
+
 ## What is HolyC Interpreted?
 It is a strongly and statically typed scripting language that closely resembles C, the language it is written in.
 
